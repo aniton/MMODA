@@ -10,7 +10,7 @@ The main goal of the project was to evaluate the accuracy of gender detection, p
 
 ## Contributors
 1. Maksim Brazhnikov 
-2. Maksim Kuznetsov
+2. Maxim Kuznetsov
 3. Oleg Desheulin
 4. Denis Rakitin
 5. Anita Soloveva
