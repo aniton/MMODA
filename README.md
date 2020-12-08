@@ -1,2 +1,1 @@
-# MMODA
-Voice Gender Detection using Tensor Power Method
+# Voice Gender Detection using Tensor Power Method
