@@ -9,7 +9,7 @@ The experiments were perfomed on three datasets:
 The main goal of the project was to evaluate the accuracy of gender detection, perfomed by the proposed approach using different sizes of feature vectors, different number of eigenvectors, testing on different datasets of major and low resourceful languages.
 
 ## Contributors
-1. Maksim Brazhnikov 
+1. Maxim Brazhnikov 
 2. Maxim Kuznetsov
 3. Oleg Desheulin
 4. Denis Rakitin
