@@ -8,7 +8,9 @@ The experiments were perfomed on three datasets:
 2. [SHRUTI dataset](https://cse.iitkgp.ac.in/~pabitra/shruti_corpus.html)
 3. [Khanty dataset](https://github.com/aniton/MMODA_NLA_Project/tree/main/Khanty_data)
 
+<p align="justify">
 The main goal of the project was to evaluate the accuracy of gender detection, perfomed by the proposed approach using different sizes of feature vectors, different number of eigenvectors, testing on different datasets of major and low resourceful languages.
+</p>
 
 ## Contributors
 1. Maxim Brazhnikov 
