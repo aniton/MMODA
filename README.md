@@ -5,7 +5,7 @@ This is a repository for the final NLA Skoltech project, where we replicated and
 The experiments were perfomed on three datasets: 
 1. [TIMIT DR1](https://drive.google.com/file/d/1nPeBbrTQH_fdvh9prmshA8fu3KrZTSSU/view?usp=sharing)
 2. [SHRUTI dataset](https://drive.google.com/file/d/1DMUmji3R96J4yM7F6k1ov8XJ4nZTFjDH/view?usp=sharing)
-3. [Khanty dataset](https://drive.google.com/file/d/1i-JXVcn4mLp-FgvUwqLQIdM8Ju0xkA28/view?usp=sharing)
+3. [Khanty dataset](https://drive.google.com/file/d/1Gb0lEZUxqYBHuDaDpLkwd-6x420zdWvE/view?usp=sharing)
 
 <p align="justify">
 The main goal of the project was to evaluate the accuracy of gender detection, perfomed by the proposed approach using different sizes of feature vectors, different number of eigenvectors, testing on different datasets of major and low resourceful languages.
