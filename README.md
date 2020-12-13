@@ -3,8 +3,8 @@
 This is a repository for the final NLA Skoltech project, where we replicated and eloborated a paper [(P. Roy, P. Bhagath, P. Das 2020)](https://www.aclweb.org/anthology/2020.sltu-1.29.pdf), which applied the tensor power method for computing dominant eigenvectors of the MFCCs feature space of voice samples.
 
 The experiments were perfomed on three datasets: 
-1. [TIMIT DR1](https://drive.google.com/file/d/1nPeBbrTQH_fdvh9prmshA8fu3KrZTSSU/view?usp=sharing)
-2. [SHRUTI dataset](https://drive.google.com/file/d/1DMUmji3R96J4yM7F6k1ov8XJ4nZTFjDH/view?usp=sharing)
+1. [TIMIT DR1](https://drive.google.com/file/d/1KxiwLoOggbty-Itbvfb8O53hStNBbxY8/view?usp=sharing)
+2. [SHRUTI dataset](https://drive.google.com/file/d/1rcGiWluMMouAa2bG6O0Ve0FrvBENQCCB/view?usp=sharing)
 3. [Khanty dataset](https://drive.google.com/file/d/1Gb0lEZUxqYBHuDaDpLkwd-6x420zdWvE/view?usp=sharing)
 
 <p align="justify">
