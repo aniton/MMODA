@@ -891,7 +891,7 @@
    "metadata": {},
    "source": [
     "#### For the big version of SHRUTI corpus an accuracy has been significantly increased. <br>\n",
-    "The best performance is reached with one eigenvector. <br>\n",
+    "The best performance (0.937) is reached with one eigenvector. <br>\n",
     "An accuracy for male and female audio data is almost equal, despite the fact that there are three times more male records than female ones."
    ]
   },
