@@ -4,7 +4,7 @@ This is a repository for the final NLA Skoltech project, where we replicated and
 
 The experiments were perfomed on three datasets: 
 1. [TIMIT DR1](https://drive.google.com/file/d/1KxiwLoOggbty-Itbvfb8O53hStNBbxY8/view?usp=sharing)
-2. [SHRUTI dataset](https://drive.google.com/file/d/1rcGiWluMMouAa2bG6O0Ve0FrvBENQCCB/view?usp=sharing)
+2. [SHRUTI dataset](https://drive.google.com/file/d/10-km7N1YdIwb8SAsQkq5hghU08IbELIu/view?usp=sharing)
 3. [Khanty dataset](https://drive.google.com/file/d/1Gb0lEZUxqYBHuDaDpLkwd-6x420zdWvE/view?usp=sharing)
 
 <p align="justify">
